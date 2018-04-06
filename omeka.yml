@@ -8,15 +8,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/7-milliards-de-voisins-rfi-fr.zip
     version: '2018-02-28'
-  aaaaaaq-it:
-    description: ftghuji
-    language: it
-    name: aaaaaqa
-    sha256sum: f5407e5cb153ef7a322a70974e37a16bae59f8410540537753aa154973c5d244
-    size: 15026036
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/aaaaaaq-it.zip
-    version: '2018-04-06'
   about-drugs-and-addiction-fa:
     description: Health - talk about drugs in farsi language.
     language: fa
@@ -66,11 +57,11 @@ all:
       \ trouverez ici de quoi lancer sereinement son entreprise."
     language: fr
     name: "Administration, gestion, comptabilit\xE9"
-    sha256sum: 70a052cab36397e4d2766c07bb4e37668dda7da3f4088e20f26852dc86d723d6
+    sha256sum: 54fa623cf60ddfa7e4e093966c312765e096f9108a031f5be836901bc97cc51e
     size: 3027988
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-fr.zip
-    version: '2017-06-23'
+    version: '2018-04-06'
   agriculture-gardening-en:
     description: Discover your green fingers and create a living environment that
       lets you live in harmony with nature.
@@ -327,15 +318,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
     version: '2018-01-18'
-  bidule-truc-es:
-    description: zaezre
-    language: es
-    name: truc bidule
-    sha256sum: 83e1488e6cbeb24e01682d79df894ae280b0cf0d9bbe22ef31e839fbde884148
-    size: 85613
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/bidule-truc-es.zip
-    version: '2018-04-06'
   bien-etre-et-communication-au-travail-fr:
     description: "Vous trouverez ici diff\xE9rentes vid\xE9os pour prendre confiance\
       \ en vous et vous affirmer au travail. Vous trouverez \xE9galement  des cl\xE9\
@@ -386,15 +368,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/biology-ar.zip
     version: '2018-02-23'
-  blabla-de:
-    description: eafezfze
-    language: de
-    name: ooOOoo
-    sha256sum: 9aaf9e081dd69d3b2837846263084e04c25e969671316c55fe98ceeeb12f82a9
-    size: 25181592
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/blabla-de.zip
-    version: '2018-04-06'
   business-management-ar:
     description: "\"This package focuses on tips and developing a creative state of\
       \ mind for managing your business./ \u0645\u0639\u0644\u0648\u0645\u0627\u062A\
