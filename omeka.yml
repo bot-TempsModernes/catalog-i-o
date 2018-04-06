@@ -11,8 +11,8 @@ all:
   aaaaaaq-it:
     description: ftghuji
     language: it
-    name: aaaaaq
-    sha256sum: 381031f46ac49a0331d1bb1a2e5f37b7ff1f3fe4951d6ed0b6bc3bf15457d012
+    name: aaaaaqa
+    sha256sum: 466ba83c4218437dabe8579644ecd27d9d56d2ba73b1201fb82e44d7a0c7e5c5
     size: 15026036
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/aaaaaaq-it.zip
@@ -331,7 +331,7 @@ all:
     description: zaezre
     language: es
     name: truc bidule
-    sha256sum: 51e023172e25d8292bfc12fbc2f74952672cdd33a121811209df67c1ac97b963
+    sha256sum: 7dc63bfdb0f1d5808d306e0249daf4490e77a7629f7f3e1d4457e185223019ec
     size: 85613
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/bidule-truc-es.zip
@@ -390,7 +390,7 @@ all:
     description: eafezfze
     language: de
     name: aozijdoazijd
-    sha256sum: bf53066a34ddb346ac2d9441c84b2d8fe8401cc3bdf6742f1283207f776736fd
+    sha256sum: 2ac52f569a95a70e535f6787872451c767884643b081fb50eced4002e41cc72b
     size: 25181592
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/blabla-de.zip
@@ -2858,6 +2858,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2018-02-23'
+  testpacakge-ar:
+    description: testpacakge
+    language: ar
+    name: testpacakge
+    sha256sum: a565770b746193fb5ea26af6adb7b5dbd2723ae2ff2d048e0b2ec294fa626331
+    size: 14594931
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/testpacakge-ar.zip
+    version: '2018-04-06'
   the-road-zaatari-magazine-ar:
     description: "Collective articles and stories written by Syrian refugees who became\
       \ journalists inside Zaatari camp In Jordan. \u0645\u062C\u0645\u0648\u0639\u0629\
