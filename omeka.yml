@@ -12,7 +12,7 @@ all:
     description: ftghuji
     language: it
     name: aaaaaq
-    sha256sum: 952c60671bdf7e4da4df5bf6895805bd489f730cda23a247407d11541560b385
+    sha256sum: 381031f46ac49a0331d1bb1a2e5f37b7ff1f3fe4951d6ed0b6bc3bf15457d012
     size: 15026036
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/aaaaaaq-it.zip
@@ -331,7 +331,7 @@ all:
     description: zaezre
     language: es
     name: truc bidule
-    sha256sum: b55dc070a3345fbd43c1e687f083e3e6ad0954876310cc0191dbf7c8da33c040
+    sha256sum: 51e023172e25d8292bfc12fbc2f74952672cdd33a121811209df67c1ac97b963
     size: 85613
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/bidule-truc-es.zip
@@ -390,7 +390,7 @@ all:
     description: eafezfze
     language: de
     name: aozijdoazijd
-    sha256sum: 1f5c8873d2be7ec4da5abfaeb85be18eea8278973c8d689cd5e658656d2dff59
+    sha256sum: bf53066a34ddb346ac2d9441c84b2d8fe8401cc3bdf6742f1283207f776736fd
     size: 25181592
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/blabla-de.zip
