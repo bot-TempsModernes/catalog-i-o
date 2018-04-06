@@ -8,14 +8,14 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/7-milliards-de-voisins-rfi-fr.zip
     version: '2018-02-28'
-  aaaaa-it:
+  aaaaaaq-it:
     description: ftghuji
     language: it
-    name: aaaaa
-    sha256sum: d8d41afdd0f4a91af1ad444da4171fb34653be9101534eee9522f3871d5632bb
+    name: aaaaaq
+    sha256sum: 952c60671bdf7e4da4df5bf6895805bd489f730cda23a247407d11541560b385
     size: 15026036
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/aaaaa-it.zip
+    url: http://packages.ideascube.org/omeka/aaaaaaq-it.zip
     version: '2018-04-06'
   about-drugs-and-addiction-fa:
     description: Health - talk about drugs in farsi language.
@@ -331,7 +331,7 @@ all:
     description: zaezre
     language: es
     name: truc bidule
-    sha256sum: 1b6b7e6c5ed7515efd615648bcd6d6a542a0c0b15360da5eb86632830f7b62c1
+    sha256sum: b55dc070a3345fbd43c1e687f083e3e6ad0954876310cc0191dbf7c8da33c040
     size: 85613
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/bidule-truc-es.zip
@@ -390,7 +390,7 @@ all:
     description: eafezfze
     language: de
     name: aozijdoazijd
-    sha256sum: e0b8b53af3d2fbf63c485f2dd742115ddc9474b1092f37830a4b3deb5f18ab54
+    sha256sum: 1f5c8873d2be7ec4da5abfaeb85be18eea8278973c8d689cd5e658656d2dff59
     size: 25181592
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/blabla-de.zip
@@ -2484,16 +2484,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/physics-ar.zip
     version: '2018-02-23'
-  poetry-2-ar:
-    description: "Poetry collection.//\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\u0631\
-      \u064A\u0629"
-    language: ar
-    name: "Poetry [\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\u0631\u064A\u0629]3"
-    sha256sum: a1f53d21eea2571cd2dd3e50b6c3c5decf2527c539200e48b7ad7a210c8826f4
-    size: 117617162
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/poetry-2-ar.zip
-    version: '2018-04-06'
   poetry-ar:
     description: "\"Poetry collection.//\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\
       \u0631\u064A\u0629\""
