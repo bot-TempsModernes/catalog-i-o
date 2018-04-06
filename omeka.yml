@@ -8,6 +8,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/7-milliards-de-voisins-rfi-fr.zip
     version: '2018-02-28'
+  aaaaa-it:
+    description: ftghuji
+    language: it
+    name: aaaaa
+    sha256sum: 8c64cbf4a828d7784a6ddff19cbe63f9d41fdfbda29ea47a54ee3ffb19bec27f
+    size: 15026036
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/aaaaa-it.zip
+    version: '2018-04-06'
   about-drugs-and-addiction-fa:
     description: Health - talk about drugs in farsi language.
     language: fa
@@ -318,6 +327,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
     version: '2018-01-18'
+  bidule-truc-es:
+    description: zaezre
+    language: es
+    name: truc bidule
+    sha256sum: c1bc52b2dbca5d9395878b9ad1001a6f95d1c8f451f5b71a3cf9f695c9f58444
+    size: 85613
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/bidule-truc-es.zip
+    version: '2018-04-06'
   bien-etre-et-communication-au-travail-fr:
     description: "Vous trouverez ici diff\xE9rentes vid\xE9os pour prendre confiance\
       \ en vous et vous affirmer au travail. Vous trouverez \xE9galement  des cl\xE9\
@@ -368,6 +386,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/biology-ar.zip
     version: '2018-02-23'
+  blabla-de:
+    description: eafezfze
+    language: de
+    name: aozijdoazijd
+    sha256sum: 460cae4e4095679c4cb484c7432102c011099a3a8ec09a243fa3b0fac9463f2b
+    size: 25181592
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/blabla-de.zip
+    version: '2018-04-06'
   business-management-ar:
     description: "\"This package focuses on tips and developing a creative state of\
       \ mind for managing your business./ \u0645\u0639\u0644\u0648\u0645\u0627\u062A\
@@ -2457,6 +2484,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/physics-ar.zip
     version: '2018-02-23'
+  poetry-2-ar:
+    description: "Poetry collection.//\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\u0631\
+      \u064A\u0629"
+    language: ar
+    name: "Poetry [\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\u0631\u064A\u0629]3"
+    sha256sum: 677abd2662b4bdecd264f4593d43f9b57be32b608d6979d50078f20ece2de61b
+    size: 117617162
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/poetry-2-ar.zip
+    version: '2018-04-06'
   poetry-ar:
     description: "\"Poetry collection.//\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\
       \u0631\u064A\u0629\""
