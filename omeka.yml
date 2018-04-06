@@ -57,7 +57,7 @@ all:
       \ trouverez ici de quoi lancer sereinement son entreprise."
     language: fr
     name: "Administration, gestion, comptabilit\xE9"
-    sha256sum: 54fa623cf60ddfa7e4e093966c312765e096f9108a031f5be836901bc97cc51e
+    sha256sum: 41130d46c384736d823db3b5166c0b8d75381f29ef4eb2e1706fbad54232d884
     size: 3027988
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-fr.zip
