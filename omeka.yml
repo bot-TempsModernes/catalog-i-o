@@ -12,7 +12,7 @@ all:
     description: ftghuji
     language: it
     name: aaaaa
-    sha256sum: 8c64cbf4a828d7784a6ddff19cbe63f9d41fdfbda29ea47a54ee3ffb19bec27f
+    sha256sum: d8d41afdd0f4a91af1ad444da4171fb34653be9101534eee9522f3871d5632bb
     size: 15026036
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/aaaaa-it.zip
@@ -331,7 +331,7 @@ all:
     description: zaezre
     language: es
     name: truc bidule
-    sha256sum: c1bc52b2dbca5d9395878b9ad1001a6f95d1c8f451f5b71a3cf9f695c9f58444
+    sha256sum: 1b6b7e6c5ed7515efd615648bcd6d6a542a0c0b15360da5eb86632830f7b62c1
     size: 85613
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/bidule-truc-es.zip
@@ -390,7 +390,7 @@ all:
     description: eafezfze
     language: de
     name: aozijdoazijd
-    sha256sum: 460cae4e4095679c4cb484c7432102c011099a3a8ec09a243fa3b0fac9463f2b
+    sha256sum: e0b8b53af3d2fbf63c485f2dd742115ddc9474b1092f37830a4b3deb5f18ab54
     size: 25181592
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/blabla-de.zip
@@ -2489,7 +2489,7 @@ all:
       \u064A\u0629"
     language: ar
     name: "Poetry [\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\u0631\u064A\u0629]3"
-    sha256sum: 677abd2662b4bdecd264f4593d43f9b57be32b608d6979d50078f20ece2de61b
+    sha256sum: a1f53d21eea2571cd2dd3e50b6c3c5decf2527c539200e48b7ad7a210c8826f4
     size: 117617162
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/poetry-2-ar.zip
