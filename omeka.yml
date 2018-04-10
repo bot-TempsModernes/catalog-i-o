@@ -324,7 +324,7 @@ all:
       \ conflits."
     language: fr
     name: "Bien-\xEAtre et communication au travail"
-    sha256sum: 8053bfcd460415351172934f93570d1528de32bef29344281d81ec542a88e3e2
+    sha256sum: 5a3c992605b188a4d03e2e095fde1d4028a34d0880f4cbc0ec7422577e5146f2
     size: 286575149
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/bien-etre-et-communication-au-travail-fr.zip
@@ -600,7 +600,7 @@ all:
       \ ou encore vous assurer de la faisabilit\xE9 de votre projet."
     language: fr
     name: "Cr\xE9ation d'entreprise"
-    sha256sum: c7b5cf0a8ccabdc34d6b87a53c8f4dc0b5a0d13ea33b58429d3f645a7c3b303a
+    sha256sum: 0c760383dca3359bd65401557ca5564b5cf450dd4ce221bce7b27ed9aeaf4b4f
     size: 1024185770
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
@@ -732,7 +732,7 @@ all:
       \ art !"
     language: fr
     name: "D\xE9couvrez le street art"
-    sha256sum: 45abe2dcd230ef6f5515dd0a00d81ffb14924c2dd751ad0a692b2d6a39489734
+    sha256sum: 77ef37621c2d9274748243cf3cdc8268d3951dd8cc2c21afc8cf1a812998f728
     size: 324940633
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-le-street-art-fr.zip
@@ -1169,7 +1169,7 @@ all:
     description: Pour animer
     language: fr
     name: "Fiche cr\xE9ativit\xE9 - libres de droit"
-    sha256sum: b0eef0ad21ca45d065b132a5a5d08e3545f43c3956ca542b0e2661ffb24d9707
+    sha256sum: d2936f52e45269821294c1b6163eb1ccd80e14e2d7c1a24f1cc4bcc8f723c0f1
     size: 9451521
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fiches-creativite-libre-de-droit-fr.zip
@@ -1248,7 +1248,7 @@ all:
     description: "A regarder ! Tous les genres, pour tous les \xE2ges."
     language: fr
     name: "Films et vid\xE9os"
-    sha256sum: 81d1433277b5b3159fb274f312284fa5bc21f9d018126ff81450fe67d7e982fc
+    sha256sum: d94171f41e577211c729112a03d4a66afc979bc77a540171c71ad81a870e3e07
     size: 7395483503
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/films-et-videos-libres-de-droit-fr.zip
@@ -1889,7 +1889,7 @@ all:
     description: "Support de m\xE9diation pour l'animateur-trice"
     language: fr
     name: ebook - kit de l'animateur - libre de droit
-    sha256sum: 7b6ec3aff925943e57a8a4d253e8beb0adb40b32dea9c1e5994e88d945799b06
+    sha256sum: 1356769625427cb4ff5988e133e44f6eda09246734bf5e0565193d4cf7562f19
     size: 54793405
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-libre-de-droit-fr.zip
@@ -2325,7 +2325,7 @@ all:
       \ toutes les langues."
     language: en
     name: Musique
-    sha256sum: 978bc9a052dd37213c970d9b559fdbe96cc91f623fdd0955fa4a2212f8968099
+    sha256sum: 22712caaff5ebfea60c2b9d9d60508994f744ee33b2999298550ffcc00195295
     size: 1115883753
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/musique-libre-de-droit-en.zip
@@ -2694,7 +2694,7 @@ all:
       \ le num\xE9rique"
     language: fr
     name: "Risques num\xE9riques"
-    sha256sum: 3d57450fea3266b39b989d5ecb96c6a3dd8387b2767f4fc0488cdc1e99ea08ec
+    sha256sum: 21df042c0051eea03dde1e3c47622de27afa7bc564cc643d5622c7167ba667f1
     size: 31021280
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/risques-numeriques-fr.zip
@@ -2906,7 +2906,7 @@ all:
       \ informations que l'on trouve sur la toile !"
     language: fr
     name: "Utilisez internet en toute s\xE9curit\xE9 !"
-    sha256sum: ceab0326821e6f2af8f8a4bf8b392992e1261e9a7f76657f5bd78b58a3c06339
+    sha256sum: 6fd3746361bd7d601e50b674b0a503cd7110e78e84a79ec356b7681c1fdaff56
     size: 479598281
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/utilisez-internet-en-toute-securite-fr.zip
