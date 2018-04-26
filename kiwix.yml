@@ -154,14 +154,14 @@ all:
     langid: "wikibooks.fr"
     type: zipped-zim
   wikibooks.es:
-    version: "2017-07-04"
-    size: 460658027
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_es_all_2017-02.zip"
+    version: "2018-03-30"
+    size: 429850851
+    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_es_all_novid_2018-03.zip"
     name: Wikilibros
     language: "esp"
     description: De Wikilibros, la colección de libros de texto de contenido libre.
-    id: "dc5339bd-ab31-7f25-d20e-ce8a6fd31f2f"
-    sha256sum: "67ff486311c33673dfa237aef1160c51a59b1c9c77e07da0e38c36df15eedff6"
+    id: "2cf2886a-95d6-6991-0ba8-2a47371f4721"
+    sha256sum: "4715e10a8765e5803f89e431e08db1d2174cec660ac1e3fa8e8c4831f9634140"
     langid: "wikibooks.es"
     type: zipped-zim
   wikisource.en:
@@ -561,14 +561,14 @@ all:
     langid: "wikiversity.ar"
     type: zipped-zim
   wikipedia.es:
-    version: "2017-05-28"
-    size: 18823025657
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_2017-05.zip"
+    version: "2018-08-10"
+    size: 19204380387
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_novid_2017-08.zip"
     name: Wikipedia
     language: "spa"
     description: "De Wikipedia, la enciclopedia libre"
     id: "caf07434-7b74-8a95-f0e0-3e1b53016829"
-    sha256sum: "78e94967a880d2e5995e18fb46540bd825e2046a716c9c5314e72cf3088eebc1"
+    sha256sum: "e017522db3a7a55f591492420c7421f605b0ff9bf5b415520f9afc32432a2267"
     langid: "wikipedia.es"
     type: zipped-zim
   gutenberg.es:
@@ -936,13 +936,13 @@ all:
     type: zipped-zim
   wikiquote.fr:
     name: "Wikiquote"
-    description: "La collection libre de citations"
-    version: "2017-03-02"
+    description: "le recueil de citations libre"
+    version: "2017-07-26"
     language: "fra"
-    id: "5677cfa0-b941-dea1-9416-8b91e75bf57c"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2017-03.zip"
-    size: 247530675
-    sha256sum: "89570e53375dcbed55b8b6c5dce0aab463b9c247dfcc8630ef7e054389788969"
+    id: "91e8e449-0a0e-3eb3-08bd-dc1f7e3f37d4"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_novid_2017-07.zip"
+    size: 249104966
+    sha256sum: "bdb0af7931609f8f171d5d8f0c07b2a661dfc7d8ee3a143d80844a80950a711b"
     type: zipped-zim
   wikipedia.ckb:
     version: "2016-11-21"
