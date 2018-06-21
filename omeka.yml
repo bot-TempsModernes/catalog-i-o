@@ -3089,10 +3089,19 @@ all:
     description: test_pkg1 desc
     language: fr
     name: test_pkg1
-    sha256sum: b65a1059a745d1359e9c2e0f9fc0aa3702a77c77438a6203a7df7ae3bd891f1c
+    sha256sum: feefc0ce516ad89241405f3750148bfb12107fc0bcb39a7fcdf575c8e9640165
     size: 106630884
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/test-pkg1-fr.zip
+    version: '2018-06-21'
+  test-pkg2-it:
+    description: desx pkg2
+    language: it
+    name: test_pkg2
+    sha256sum: 228f69c0e8b667ba22f7364a60fbd17c734cbbcdfb1107240f9efd50699076f2
+    size: 9964626
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/test-pkg2-it.zip
     version: '2018-06-21'
   the-road-zaatari-magazine-ar:
     description: "Collective articles and stories written by Syrian refugees who became\
