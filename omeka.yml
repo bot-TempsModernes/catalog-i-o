@@ -3089,7 +3089,7 @@ all:
     description: test_pkg1 desc
     language: fr
     name: test_pkg1
-    sha256sum: 06e0835ce35830e4a63c1da674e28ad6dfc6766a351188c8afcd006979df95d5
+    sha256sum: b65a1059a745d1359e9c2e0f9fc0aa3702a77c77438a6203a7df7ae3bd891f1c
     size: 106630884
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/test-pkg1-fr.zip
