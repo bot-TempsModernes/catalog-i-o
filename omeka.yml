@@ -3089,7 +3089,7 @@ all:
     description: test_pkg1 desc
     language: fr
     name: test_pkg1
-    sha256sum: feefc0ce516ad89241405f3750148bfb12107fc0bcb39a7fcdf575c8e9640165
+    sha256sum: b158ec89247b44ee09a3ec985ab3408f17df13029a0de72a3ab40d6f3494b7b6
     size: 106630884
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/test-pkg1-fr.zip
@@ -3098,7 +3098,7 @@ all:
     description: desx pkg2
     language: it
     name: test_pkg2
-    sha256sum: 228f69c0e8b667ba22f7364a60fbd17c734cbbcdfb1107240f9efd50699076f2
+    sha256sum: dc84e7b3d5abeb18e5ba325820c38c1498cebbd0dcd219c49667fead65ad2bd2
     size: 9964626
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/test-pkg2-it.zip
