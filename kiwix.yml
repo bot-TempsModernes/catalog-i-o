@@ -66,14 +66,14 @@ all:
     langid: "wikipedia.en"
     type: zipped-zim
   wikipedia.fr:
-    version: "2017-07-25"
-    size: 28225711968
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fr_all_novid_2017-07.zip"
+    version: "2018-04-01"
+    size: 33271643275
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fr_all_novid_2018-03.zip"
     name: Wikipédia
     language: "fra"
     description: L'encyclopédie libre.
-    id: "15d8de71-ecb0-d49d-0661-b941c4a13854"
-    sha256sum: "6ea9567eb032afff4f1e706683d50f78098d059f8819e1eb83896db60f14ca84"
+    id: "08660bd8-8ea1-ddc3-a34b-18d65584ebc8"
+    sha256sum: "e273b0ced659774b1049c173a68d765ad32d80a7d9aa719bb97ccb187089fb1b"
     langid: "wikipedia.fr"
     type: zipped-zim
   wikipedia.rn:
@@ -198,9 +198,9 @@ all:
     langid: "cest-pas-sorcier.fr"
     type: zipped-zim
   gutenberg.en:
-    version: "2014-10-26"
+    version: "2014-10-31"
     size: 43415229696
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_en_all_10_2014.zip"
+    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_en_all_2014-10.zip"
     name: Project Gutenberg Library (english)
     language: "eng"
     description: "Project Gutenberg offers free ebook (epub and pdf)"
@@ -209,9 +209,9 @@ all:
     langid: "gutenberg.en"
     type: zipped-zim
   gutenberg.fr:
-    version: "2014-10-18"
+    version: "2014-10-31"
     size: 2380948535
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_fr_all_10_2014.zip"
+    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_fr_all_2014-10.zip"
     name: Project Gutenberg Library (french)
     language: "fra"
     description: "Le Projet Gutenberg offre des livres électroniques gratuits à télécharger sur votre PC"
@@ -828,12 +828,12 @@ all:
     langid: "wikipedia.sw"
     description: "Kutoka Wikipedia, kamusi elezo huru"
     name: Wikipedia
-    version: "2017-08-20"
+    version: "2018-05-0"
     language: "swa"
-    id: "1820cb7a-0c9e-7257-085d-87c539cb0085"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sw_all_novid_2017-08.zip"
-    size: 541737656
-    sha256sum: "945c2fd5e1ee0628ef6dcde0e2b852e29dce77938ee1a1e5e1b28d8b08c6608f"
+    id: "7ac5c605-d72f-4b7b-cb50-5273abb2bd8f"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sw_all_novid_2018-05.zip"
+    size: 616918517
+    sha256sum: "efac310760f6be20235c93b2a9ce58f7272bdca2d4469f52d8549e4ba8bb679c"
     type: zipped-zim
   vikidia.es:
     langid: "vikidia.es"
@@ -937,12 +937,12 @@ all:
   wikiquote.fr:
     name: "Wikiquote"
     description: "le recueil de citations libre"
-    version: "2017-07-26"
+    version: "2018-04-17"
     language: "fra"
-    id: "91e8e449-0a0e-3eb3-08bd-dc1f7e3f37d4"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_novid_2017-07.zip"
-    size: 249104966
-    sha256sum: "bdb0af7931609f8f171d5d8f0c07b2a661dfc7d8ee3a143d80844a80950a711b"
+    id: "af530b98-ba9d-68fc-b533-44662997bc7e"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_novid_2018-04.zip"
+    size: 259907245
+    sha256sum: "77ad2aff2033893d1001acac7ce2235906c2df3d74c034b3f26d4570ca7e7873"
     type: zipped-zim
   wikipedia.ckb:
     version: "2016-11-21"
@@ -959,9 +959,9 @@ all:
     version: "2018-04-17"
     size: 279704022
     url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_novid_2018-04.zip"
-    name: "ﻭیکی<200c>گﻒﺗﺍﻭﺭﺩ"
+    name: "ویکی‌گفتاورد"
     language: "fas"
-    description: "ﺍﺯ ﻭیکی<200c>گﻒﺗﺍﻭﺭﺩ"
+    description: "از ویکی‌گفتاورد"
     id: "b26d4fd5-6389-0241-14c1-9a2ffda3a42e"
     sha256sum: "c150f664319162b8fef3c2e78ae2522eacc82b0a905d16bb0b27b9e1cb2d70e8"
     langid: "wikiquote.fa"
