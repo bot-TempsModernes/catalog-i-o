@@ -3086,14 +3086,23 @@ all:
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2018-02-23'
   test-pkg1-fr:
-    description: test_pkg1 desc
+    description: test-pkg1
     language: fr
-    name: test_pkg1
-    sha256sum: 4c48e8732c474695f81fcb5d6625ac22246fa2a1eefad9437946ce9ac714bf49
-    size: 5332369
+    name: test-pkg1
+    sha256sum: de56e43e53e4bf53bb8afecc0a3163ec8c7c831311fd174b8b852752af57f802
+    size: 4090339
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/test-pkg1-fr.zip
-    version: '2018-06-22'
+    version: '2018-07-03'
+  test-pkg2-fr:
+    description: test-pkg1
+    language: fr
+    name: test-pkg2
+    sha256sum: 01374cf3b34e51cbf5d8b14d23aa7ffada37da12e93c009ac352724952a16dd6
+    size: 14079261
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/test-pkg2-fr.zip
+    version: '2018-07-03'
   test-pkg2-it:
     description: desx pkg2
     language: it
