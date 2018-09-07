@@ -2739,14 +2739,14 @@ all:
     url: http://packages.ideascube.org/omeka/physics-ar.zip
     version: '2018-02-23'
   pkg1-it:
-    description: desc1
+    description: desc2
     language: it
     name: test-pkg1
-    sha256sum: 2c05e52783574cbcf5ef5caeec4cc00c46800ddeb256cc02d5015091dfdaa199
-    size: 6378636
+    sha256sum: 7dfe8ff17a44d772311ed893bb57311bd76cbc599253d94c44e7d4bc5158b4ed
+    size: 6378734
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/pkg1-it.zip
-    version: '2018-07-27'
+    version: '2018-09-07'
   poetry-ar:
     description: "\"Poetry collection.//\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\
       \u0631\u064A\u0629\""
