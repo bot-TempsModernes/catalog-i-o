@@ -2742,7 +2742,7 @@ all:
     description: desc2
     language: it
     name: test-pkg1
-    sha256sum: 7dfe8ff17a44d772311ed893bb57311bd76cbc599253d94c44e7d4bc5158b4ed
+    sha256sum: 85d8d9adc475c245fd2db13468bb8ae41d273ed32e6369168edb57c55c176c7d
     size: 6378734
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/pkg1-it.zip
