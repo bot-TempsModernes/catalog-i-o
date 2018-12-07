@@ -3146,3 +3146,12 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2018-02-23'
+  test-pkg-1-ar:
+    description: Test pkg 1
+    language: ar
+    name: Test pkg 1
+    sha256sum: 4d11f975803c3b7ea60b131097a8e6b9111fb459156ca40d40d1607be63f23d2
+    size: 1021
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
+    version: '2018-12-07'
