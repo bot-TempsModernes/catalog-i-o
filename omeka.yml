@@ -2480,6 +2480,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/moyens-de-contraception-fr.zip
     version: '2018-05-15'
+  multicontent-pkg-fr:
+    description: multicontent pkg
+    language: fr
+    name: multicontent pkg
+    sha256sum: 4bbd8d46d0e12cbba47f1a0a7c97aacd9ab2392d6ec31588fc44f411527248dc
+    size: 3581
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/multicontent-pkg-fr.zip
+    version: '2018-12-21'
   music-in-arabic:
     description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
       \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
@@ -3146,6 +3155,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2018-02-23'
+  test-audio-pkg-fr:
+    description: test audio pkg
+    language: fr
+    name: test audio pkg
+    sha256sum: 98cebe6134c728d3d34d1bb6fced552ef4c2ff8fc85787cd057ea2620a862b4a
+    size: 577
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/test-audio-pkg-fr.zip
+    version: '2018-12-21'
   test-pkg-1-ar:
     description: Test pkg 1
     language: ar
@@ -3155,3 +3173,12 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
     version: '2018-12-07'
+  test-video-pkg-de:
+    description: test video pkg
+    language: de
+    name: test video pkg
+    sha256sum: a842e1a720171acfa8e349b1f8d1940a32829c6bc836dca277b45906586b398f
+    size: 2243
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/test-video-pkg-de.zip
+    version: '2018-12-21'
