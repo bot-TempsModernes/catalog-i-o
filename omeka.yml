@@ -366,6 +366,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
     version: '2018-01-18'
+  azertyaqsdf-de:
+    description: azqesrdtfgyhu
+    language: de
+    name: zersdfg
+    sha256sum: 7f5641810b30c496dbba01c42896c807bb5d9ea214385a9a48d66878233ecdd3
+    size: 2243
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/azertyaqsdf-de.zip
+    version: '2019-01-10'
   being-prepared-in-case-of-a-major-disaster-en:
     description: In this program you will learn the correct safety precautions and
       techniques to adopt when faced with a major disaster in order to stay calm and
@@ -3168,7 +3177,7 @@ all:
     description: Test pkg 1
     language: ar
     name: Test pkg 1
-    sha256sum: 534c7ad446ef71b8df97560e23bc036298355c47799eeac533efafff6e2b461a
+    sha256sum: 70fb171fdd1d234b76843733b91ac1b60d6be04e35c7eeae94e000dd2b651305
     size: 3134
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
