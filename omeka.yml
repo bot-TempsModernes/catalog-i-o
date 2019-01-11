@@ -370,11 +370,11 @@ all:
     description: azqesrdtfgyhu
     language: de
     name: zersdfg
-    sha256sum: 7f5641810b30c496dbba01c42896c807bb5d9ea214385a9a48d66878233ecdd3
+    sha256sum: 63e2617483bcff65901dac5f2117f2bdc9e34d49de9c6a312ab1cd3293003b0a
     size: 2243
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/azertyaqsdf-de.zip
-    version: '2019-01-10'
+    version: '2019-01-11'
   being-prepared-in-case-of-a-major-disaster-en:
     description: In this program you will learn the correct safety precautions and
       techniques to adopt when faced with a major disaster in order to stay calm and
@@ -3177,11 +3177,11 @@ all:
     description: Test pkg 1
     language: ar
     name: Test pkg 1
-    sha256sum: 70fb171fdd1d234b76843733b91ac1b60d6be04e35c7eeae94e000dd2b651305
+    sha256sum: 5fc8473e58b28c75664e4e0bb9d60d67174ef8bc2b1f668daa32f8e8b93a98c5
     size: 3134
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
-    version: '2019-01-10'
+    version: '2019-01-11'
   test-video-pkg-de:
     description: test video pkg
     language: de
