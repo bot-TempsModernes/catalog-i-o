@@ -3177,11 +3177,11 @@ all:
     description: Test pkg 1
     language: ar
     name: Test pkg 1
-    sha256sum: 5fc8473e58b28c75664e4e0bb9d60d67174ef8bc2b1f668daa32f8e8b93a98c5
-    size: 3134
+    sha256sum: 934b4b3b86401273e7af8896074021d413f3b1179f3fd93dd6b47ff41f1f8ad7
+    size: 99080
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
-    version: '2019-01-11'
+    version: '2019-03-12'
   test-video-pkg-de:
     description: test video pkg
     language: de
