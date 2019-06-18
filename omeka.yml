@@ -3237,3 +3237,12 @@ all:
         type: zipped-medias
         url: http://packages.ideascube.org/omeka/test-video-pkg-de.zip
         version: '2018-12-21'
+  test-pkg-1-ar:
+    description: Test pkg 1
+    language: ar
+    name: Test pkg 1
+    sha256sum: f2896f5008b872f80bad93e6cb2fe84997d675bc6dcae107b1f45c36b67ba990
+    size: 2937
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
+    version: '2019-06-18'
