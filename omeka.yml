@@ -1887,6 +1887,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tales-for-kids-ar.zip
     version: '2019-09-17'
+  test-pkg-1-ar:
+    description: Test pkg 1
+    language: ar
+    name: Test pkg 1
+    sha256sum: 781b4d76763f0743b175f074d8feba9f362fa05434479243928eeca83e1b8389
+    size: 2937
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
+    version: '2019-10-01'
   tutorials-for-using-programs-en:
     description: It explains basic electronic components and software like inkscape
       - gimp - blender - scribus - raspberry pi - audacity - DaVinci - krita
