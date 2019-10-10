@@ -294,6 +294,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/citoyennete-enabel-fr.zip
     version: '2019-09-18'
+  citoyennete-et-politique-fr:
+    description: "D\xE9mocratie, politique, \xE9lection, gauche, droite... On en parle\
+      \ ?"
+    language: fr
+    name: "Qu'est-ce qu'\xEAtre \"citoyen\" ?"
+    sha256sum: 36dd16c5aadd9745c716f3a69372537c343111fb0c3e61205e6602554e97cc9b
+    size: 103987094
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
+    version: '2019-10-08'
   combattons-les-discriminations-fr:
     description: "Genre, couleur de peau, handicap, religion... La discrimination\
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
@@ -713,6 +723,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fiches-creativite-libre-de-droit-fr.zip
     version: '2019-09-16'
+  fiches-d-activites-play-international-fr:
+    description: "Dans ce paquet, vous trouverez des fiches d'activit\xE9s cr\xE9\xE9\
+      es par Play International. Il s'agit de s\xE9ances de jeux sportifs concernant\
+      \ les th\xE9matiques de l'activit\xE9 physique, du sommeil, de l'alimentation,\
+      \ et du vivre ensemble."
+    language: fr
+    name: "Fiches d'activit\xE9s Play International"
+    sha256sum: ef88e5279b9868c4fd34dcbb5a9baff133139dcfcaf59df79aac246788a4f914
+    size: 11887707
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/fiches-d-activites-play-international-fr.zip
+    version: '2019-10-08'
   fictions-and-entertainment-in-arabic-ar:
     description: "\u0645\u0633\u0644\u0633\u0644\r\n\u0634\u0639\u0631\r\n\u0642\u0635\
       \u0635"
@@ -956,6 +978,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/if-i-m-pregnant-how-do-drugs-and-alcohol-affect-me-en.zip
     version: '2019-09-16'
+  il-etait-une-fois-notre-terre-fr:
+    description: "S\xE9rie t\xE9l\xE9vis\xE9e d'animation fran\xE7aise qui explique\
+      \ aux enfants la notion de d\xE9veloppement durable, pr\xE9sent\xE9e comme un\
+      \ enjeu majeur pour l'avenir de la plan\xE8te et de l'Humanit\xE9."
+    language: fr
+    name: "Il \xE9tait une fois notre terre"
+    sha256sum: e551ff12a6afb1b586038b9dd747c6d8530f33fa6b3779a887ee20bf5f98af11
+    size: 278988928
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/il-etait-une-fois-notre-terre-fr.zip
+    version: '2019-10-08'
   initiez-vous-a-la-creation-video-fr:
     description: "Initiez vous aux r\xE9flexions sur le cin\xE9ma et l'image, et lancez\
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
@@ -1604,6 +1637,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nutrition-fr.zip
     version: '2019-09-18'
+  parentalite-fr:
+    description: "Le lien parent-enfant est parfois compliqu\xE9 \xE0 entretenir sereinement.\
+      \  Ces contenus vous aideront peut-\xEAtre \xE0 trouver certaines r\xE9ponses\
+      \ \xE0 vos questions !"
+    language: fr
+    name: "Parentalit\xE9"
+    sha256sum: c3d722d97e354e2fd240388078e375197ae86cc6069c9641ccbb2b32d5da8699
+    size: 50474864
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/parentalite-fr.zip
+    version: '2019-10-08'
   patron-pour-coudre-une-jupe-a-volants-fille-fr:
     description: "Ce paquet de contenus pr\xE9sente des patrons qui peuvent \xEAtre\
       \ utilis\xE9s pour coudre une jupe \xE0 volants pour fille. Les patrons sont\
@@ -1681,6 +1725,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/pratiques-et-usages-du-numerique-fr.zip
     version: '2019-09-16'
+  premiers-secours-enfants-adolescents-fr:
+    description: "Conna\xEEtre les gestes de premiers secours"
+    language: fr
+    name: Premiers secours enfants/adolescents
+    sha256sum: 44b0ba1d1096976115c6bce6ce7f95a185c130b0371b20a630c98b1733381253
+    size: 255393608
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/premiers-secours-enfants-adolescents-fr.zip
+    version: '2019-10-08'
   prends-soin-de-toi-enfants-ado-fr:
     description: "Chacun a de belles choses \xE0 dire et \xE0 montrer aux autres,\
       \ il faut apprendre \xE0 les voir et \xE0 les aimer pour se sentir bien avec\
@@ -1874,6 +1927,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sport-fr.zip
     version: '2019-09-16'
+  sports-enfants-ados-fr:
+    description: "A quoi \xE7a sert le sport ? Combien il y a de sports diff\xE9rents\
+      \ ? Pourquoi le sport, \xE7a rime avec respect et amiti\xE9 ?"
+    language: fr
+    name: Les bases du sport
+    sha256sum: 6f2a845f278078c4c46c8a5f37178ba29ac4e4d645265eea8d087c9d00e8f88c
+    size: 660381550
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sports-enfants-ados-fr.zip
+    version: '2019-10-08'
   tales-for-kids-ar:
     description: "A variety of fun and cultivating tales for kids. /\u0642\u0635\u0635\
       \ \u0645\u0646\u0648\u0639\u0629 \u0627\u062F\u0628\u064A\u0629 \u0645\u0646\
@@ -1887,15 +1950,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tales-for-kids-ar.zip
     version: '2019-09-17'
-  test-pkg-1-ar:
-    description: Test pkg 1
-    language: ar
-    name: Test pkg 1
-    sha256sum: 6b194019fb6910f26d1ee2af48f88232d5296efd467dfae999dca2c19577ac9b
-    size: 2937
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
-    version: '2019-10-01'
   tutorials-for-using-programs-en:
     description: It explains basic electronic components and software like inkscape
       - gimp - blender - scribus - raspberry pi - audacity - DaVinci - krita
