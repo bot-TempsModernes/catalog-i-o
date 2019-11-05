@@ -1907,6 +1907,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/pedagogie-enabel-fr.zip
     version: '2019-09-16'
+  pkg2-en:
+    description: Believe it or not.
+    language: en
+    name: this is package 2
+    sha256sum: 7c934e2f1e4b7b0062fac9e7e65b03aa7c43d795c00dc198277105e5574dbf63
+    size: 1105
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/pkg2-en.zip
+    version: '2019-11-05'
   political-sciences-africa-en:
     description: Returning to the stakes of politics sometimes helps to better understand
       the events of the present.
@@ -2185,6 +2194,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tales-for-kids-ar.zip
     version: '2019-09-17'
+  test-pkg-1-ar:
+    description: Test pkg 1
+    language: ar
+    name: Test pkg 1
+    sha256sum: d10d0c00d58685626676606f390be65cc4cfb3b9ba0808732c9ee576e9d558f3
+    size: 2978
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
+    version: '2019-11-05'
   tutorials-for-using-programs-en:
     description: It explains basic electronic components and software like inkscape
       - gimp - blender - scribus - raspberry pi - audacity - DaVinci - krita
