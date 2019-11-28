@@ -3219,7 +3219,7 @@ all:
     description: Test pkg 1
     language: ar
     name: Test pkg 1
-    sha256sum: cf37f1c85e3f852af7ca4fab0795d06c5e247829ff0089fbf93a3cce98cfb9c8
+    sha256sum: 97ad5ffb56c6dd49a55684a894d67ebd533564f9241febf8be43a080a51353a2
     size: 2937
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
