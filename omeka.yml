@@ -1314,6 +1314,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ebooks-enfants-fr.zip
     version: '2019-12-10'
+  ebooks-ghana-en:
+    description: '-'
+    language: en
+    name: Ebooks-Ghana
+    sha256sum: 9b9e2624005ad5a50f3febc0b46f4f6849c141f0e13b50beff87addfc9d56c71
+    size: 198048960
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ebooks-ghana-en.zip
+    version: '2020-01-17'
   eco-d-ici-eco-d-ailleurs-rfi-fr:
     description: "\xC9mission RFI : \"Eco d'ici \xE9co d'ailleurs\""
     language: fr
