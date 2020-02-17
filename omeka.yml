@@ -80,6 +80,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/africa-riding-fr.zip
     version: '2019-09-16'
+  agriculture-ecology-documentary-in-burmese-mm:
+    description: Documentaries about agricultural technics in Myanmar and about ecology
+      and how to take care of the environement, mostly in Burmese language
+    language: mm
+    name: Agriculture & Ecology documentary in Burmese
+    sha256sum: 0fd246a0f237172679a0e640c9a7001b2cd34672927998bbce788c59a616fd29
+    size: 1398024102
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-ecology-documentary-in-burmese-mm.zip
+    version: '2020-02-17'
   agriculture-gardening-en:
     description: Discover your green fingers and create a living environment that
       lets you live in harmony with nature.
@@ -100,6 +110,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/alcool-drogues-fr.zip
     version: '2019-09-18'
+  alez-pou-make-kreyol-fr:
+    description: "Vid\xE9o courte sur les r\xE8gles d'\xE9criture et de phon\xE9tique\
+      \ du cr\xE9ole fran\xE7ais"
+    language: fr
+    name: "\xAB Al\xE8z pou mak\xE9 Kr\xE9y\xF2l \xBB"
+    sha256sum: 3a808c881cb1c255577a2050451f8eabb21ee36510a1b4d3264e1f7e4106fef8
+    size: 442377844
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/alez-pou-make-kreyol-fr.zip
+    version: '2020-01-28'
   anatomie-feminine-fr:
     description: "Des contenus autour de de l'anatomie f\xE9minine"
     language: fr
@@ -124,6 +144,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/animals-documentaries-ar.zip
     version: '2019-09-20'
+  animals-environement-documentary-in-burmese-mm:
+    description: Documentaries about animal life as well as some cultural wonder like
+      the pyramids. All the video are in Burmese
+    language: mm
+    name: Animals & Environement documentary in Burmese
+    sha256sum: eaba5cbda3896f0a1b7f95fb149467a2a21296610af2306d863aeb26aa43f1cc
+    size: 2510279922
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/animals-environement-documentary-in-burmese-mm.zip
+    version: '2020-02-17'
+  animals-environement-documentary-in-english-en:
+    description: '-'
+    language: en
+    name: Animals & Environement documentary in English
+    sha256sum: a56417d0de8d3e217accb8aadb64bd60e5b34c7c34ab89affccb19b92536799d
+    size: 1650009806
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/animals-environement-documentary-in-english-en.zip
+    version: '2020-02-17'
   apprendre-a-cuisiner-sikana-fr:
     description: "Nous consommons de plus en plus de plats pr\xE9par\xE9s individuels.\
       \ Partager un repas fait maison est un pur moment de plaisir. D\xE9couvrez dans\
@@ -341,6 +380,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits-fr.zip
     version: '2019-09-11'
+  art-contemporain-fr:
+    description: "Contenus relatifs \xE0 l'art contemporain, son contexte artistique,\
+      \ intellectuel, \xE9conomique"
+    language: fr
+    name: Art contemporain
+    sha256sum: 352a6d49d91a181836c7970cbddec3ba124f12d036a3fe9e87807dde35320f2c
+    size: 520791081
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/art-contemporain-fr.zip
+    version: '2020-02-11'
   arts-africa-en:
     description: Arts are part of the wealth of a country.
     language: en
@@ -434,6 +483,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ballet-picks-ar.zip
     version: '2019-11-21'
+  beauty-parlor-411:
+    description: "Video about make up, henna design and hairdressing for women and\
+      \ teenager girl.\r\nThe language of the tutoriel are mix (english, arabic, burmese,\
+      \ no language) but most of the video can be followed without understanding the\
+      \ language, just by following the step"
+    language: '411'
+    name: Beauty Parlor
+    sha256sum: 9c993907580f19ca5a91b03303117a0c8810ce6a720d378ee6fb2c6c168331f4
+    size: 1069541118
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/beauty-parlor-411.zip
+    version: '2020-02-17'
   bien-etre-et-communication-au-travail-fr:
     description: "Ici, des outils pour travailler votre confiance en vous et vous\
       \ affirmer au travail. Et des cl\xE9s pour d\xE9samorcer et r\xE9soudre des\
@@ -517,6 +578,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/carpentry-ar.zip
     version: '2019-11-21'
+  carpentry-en:
+    description: You want to learn or discover carpentry ? Beginner or professional,
+      you will find everything you are looking for here !
+    language: en
+    name: Carpentry
+    sha256sum: 08e9f8b6b3a2276d42da392967b0bdfb3ec25bd1be2edc5a6d8ddb6c4c1aca46
+    size: 1140585652
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/carpentry-en.zip
+    version: '2020-02-17'
   cartoons-ar:
     description: "Enjoy classic cartoons in arabic!// \u0634\u0627\u0647\u062F \u0627\
       \u0641\u0644\u0627\u0645 \u0643\u0631\u062A\u0648\u0646 \u0643\u0644\u0627\u0633\
@@ -539,6 +610,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cartoons-en.zip
     version: '2019-09-11'
+  cartoons-in-burmese-rhg:
+    description: Cartoons about tradictional Burmese fairy tales and stories dedicated
+      to children
+    language: rhg
+    name: Cartoons in Burmese
+    sha256sum: 74690edabb7a183078cb8a30b49dc6302209721d7df613988da704af99270bb0
+    size: 1389110658
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cartoons-in-burmese-rhg.zip
+    version: '2020-02-17'
+  cartoons-in-hindi-hi:
+    description: Cartoons for children in Hindi language
+    language: hi
+    name: Cartoons in Hindi
+    sha256sum: ab441e2fe13f1a912d8f216f69bab64b6c1b1bceb77a76f13dae9e48febbf956
+    size: 776020620
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cartoons-in-hindi-hi.zip
+    version: '2020-02-17'
   chemistry-ar:
     description: "Learn more about Chemistry./ \u062A\u0639\u0644\u0645 \u0627\u0643\
       \u062B\u0631 \u0639\u0646 \u0627\u0644\u0643\u064A\u0645\u064A\u0627\u0621"
@@ -560,6 +650,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/child-protection-ar.zip
     version: '2019-11-21'
+  children-books-in-burmese-pdf-and-audio-books-mm:
+    description: This package include books in pdf created by Third Story Project
+      as well as some audio books. The books are in Burmese, sometime with Burmese
+      and English language. They are dedicated to children and illustre stories about
+      peace and friendship.
+    language: mm
+    name: Children books in Burmese (pdf and audio books)
+    sha256sum: fa2d7f7e34a798d2d4accb29a2a045920fa45258e476f70abf89ff1a507d4d7e
+    size: 319596530
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/children-books-in-burmese-pdf-and-audio-books-mm.zip
+    version: '2020-02-17'
   children-s-club-6-12-bn:
     description: Content for the Children's Club (6-12 years old) in HI/Mokti Ideas
       Box in Teknaf, Bangaldesh.
@@ -601,6 +703,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
     version: '2019-12-10'
+  classic-literature-in-english-en:
+    description: EBooks from the classic literature of england, france and ancient
+      greece. All books are in English.
+    language: en
+    name: Classic literature in English
+    sha256sum: 57d08047aee48bbb25cc968be883eb5f759383710bac191322c61e97ab7bf0e6
+    size: 48966352
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/classic-literature-in-english-en.zip
+    version: '2020-02-17'
   classical-music-ar:
     description: "The best selection of classical music/ \u062A\u0645\u062A\u0639\
       \ \u0628\u0623\u062C\u0645\u0644 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0627\
@@ -758,11 +870,11 @@ all:
       \ mumubiri birafasha kworoherwa mumutwe : Weho ubona gute umubiri wawe ?"
     language: fr
     name: "Conna\xEEtre et aimer son corps / Kumenya no gukunda umubiri wawe"
-    sha256sum: 5881cc8ccfd40f0370f1af56893f56bf82da886106695f0fd8a61edbef1f5cdc
-    size: 127491798
+    sha256sum: 983c31f0e188c01b3800575a694d55d7e2d21754ab945e73be5a044ebccc2d1d
+    size: 127494625
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-et-aimer-son-corps-kumenya-no-gukunda-umubiri-wawe-fr.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   connaitre-et-se-proteger-des-maladies-gl-fr:
     description: "En savoir plus sur les maladies humaines et comment s'en prot\xE9\
       ger. / Gutahura gusumba ingwara n'ingene bazikingira."
@@ -1047,11 +1159,11 @@ all:
     description: Various videos about the island of Saint Martin
     language: en
     name: Fruits de mer documentaries
-    sha256sum: 1b6b79dddcf83b288858773166fadf6a889682a4492774f214998c73c9278579
-    size: 2456373048
+    sha256sum: c0f74483a3b372c7e7b06754e63e43cad4dfc88beecf6aeb737d0fe531cbf8d8
+    size: 5190598422
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultures-fruits-de-mer-documentaries-en.zip
-    version: '2019-12-10'
+    version: '2020-01-28'
   cultures-fruits-de-mer-nature-en:
     description: Various documents that present aspects of the fauna, flora and environment
       of the carribean islands
@@ -1062,6 +1174,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultures-fruits-de-mer-nature-en.zip
     version: '2019-12-10'
+  cultures-revue-heritage-st-martin-fr:
+    description: Revue sur l'histoire et le patrimoine de Saint Martin
+    language: fr
+    name: Revue HERITAGE
+    sha256sum: 9be3304729c888fb17ad374be7048265db58e11786b2a763056ccc74c5c4848b
+    size: 734319026
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultures-revue-heritage-st-martin-fr.zip
+    version: '2020-01-28'
   cultures-saint-martin-photos-fr:
     description: Reportages photos sur la faune, la flore et le climat de l'ile de
       Saint-Martion, par Mark Yokohama
@@ -1152,6 +1273,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/digital-literacy-burmese-mm.zip
     version: '2019-11-14'
+  digital-literacy-lesson-in-english-en:
+    description: '-'
+    language: en
+    name: Digital literacy lesson in English
+    sha256sum: 629a05f4282401ab5c10578013397894ee8995737a1e5587cb4d9c67bb9bfea7
+    size: 640870400
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/digital-literacy-lesson-in-english-en.zip
+    version: '2020-02-17'
+  digital-literacy-lessons-in-burmese-mm:
+    description: Tutorials videos in Burmese to discover computer and basic software
+      and internet. Advice and concret tips
+    language: mm
+    name: Digital literacy lessons in Burmese
+    sha256sum: bb898b0f81b86e2343af0074f566e9435058d578e46d1e8c8fc09629e36600e8
+    size: 1031569124
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/digital-literacy-lessons-in-burmese-mm.zip
+    version: '2020-02-17'
   digital-literacy-multilanguage-en:
     description: '-'
     language: en
@@ -1161,6 +1301,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/digital-literacy-multilanguage-en.zip
     version: '2019-11-14'
+  discover-the-culture-of-the-world-en:
+    description: "Short documentary about traditional dance, cloths and other cultural\
+      \ aspect in different countries.\r\nContent in english"
+    language: en
+    name: Discover the culture of the world
+    sha256sum: c280b4591fcb39c2cafa77422f9c8108393ce4959a7c7448df959e8331905817
+    size: 2200932567
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/discover-the-culture-of-the-world-en.zip
+    version: '2020-02-17'
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
@@ -1218,6 +1368,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/do-it-yourself-burmese-rhg.zip
     version: '2019-11-14'
+  do-it-yourself-diy-en:
+    description: Do It Yourself is a movement that advocates the repair and manufacture
+      of objects by oneself, without the help of experts.
+    language: en
+    name: Do it yourself
+    sha256sum: 7940f0f44cbf473fc78e210fb44164a63270d3414de9a05c213f78c9eaa1e811
+    size: 777346415
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/do-it-yourself-diy-en.zip
+    version: '2020-02-11'
   do-it-yourself-multi-languages-en:
     description: Express your creativity, you will find a lot of video to help yourself
       to build  things
@@ -1246,6 +1406,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/documentaires-handicap-international-fr.zip
     version: '2019-09-18'
+  documentary-in-rohingya-rhg:
+    description: Documentary about the Arakan history and about present time, dedicated
+      to the Rohingya community, in Rohingya langue
+    language: rhg
+    name: Documentary in Rohingya
+    sha256sum: 57c0673b1407abbed788492348edd12a52c43ffc0f9b7a910969120205cdd265
+    size: 333094344
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/documentary-in-rohingya-rhg.zip
+    version: '2020-02-17'
   dpc-awareness-and-protection-ar:
     description: "A variety of protection and awareness videos on different topics.\r\
       \n\r\nTeenagers and Adults"
@@ -1257,6 +1427,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/dpc-awareness-and-protection-ar.zip
     version: '2019-11-21'
+  drawing-class-en:
+    description: Several lesson in video to learn how to draw from the very beginning
+      and to improve your drawing skills with intremediary and advances lessons.
+    language: en
+    name: Drawing class
+    sha256sum: bdced605a4c44b37f43ca15788d2d103c376eb6ae741eb2a792bd58847129334
+    size: 2100785991
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/drawing-class-en.zip
+    version: '2020-02-17'
   drawing-colouring-en:
     description: Learn how to draw, colour, make graffiti, become an artist !
     language: en
@@ -1332,6 +1512,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/eco-d-ici-eco-d-ailleurs-rfi-fr.zip
     version: '2019-09-19'
+  ecologie-fr:
+    description: "Paquet \xE0 trier"
+    language: fr
+    name: Ecologie
+    sha256sum: cac217ef13ba50ce9bce9fa18f453863cec21459b6f04ca2931f97ef2dac16d1
+    size: 62570709
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecologie-fr.zip
+    version: '2020-02-11'
   ecology-burmese-mm:
     description: '-'
     language: mm
@@ -1541,6 +1730,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/english-rohingya-club-rhg.zip
     version: '2019-11-14'
+  entertainment-silent-movies-411:
+    description: "In this paquages you will find video of comic silent movie, for\
+      \ all age and all language public.\r\nFunny video of M. Bean, Georges Melies\
+      \ movies, Charly Chaplin and others"
+    language: '411'
+    name: Entertainment - Silent movies
+    sha256sum: 4ec697a4d55d0df7a9d91ea980ba1a234fa099742646262e208a5e7b4934987c
+    size: 7343164572
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/entertainment-silent-movies-411.zip
+    version: '2020-02-17'
   entertainment-theater-mime-en:
     description: "Video about how to perform mimes, tutoriel and guidelines.\r\nVideo\
       \ about theater and tips to perform a play\r\nFunny video about M. Bean"
@@ -1655,11 +1855,11 @@ all:
       \ rijanye n'amaga meza."
     language: rn
     name: Feuilleton Ninde / Igikino NINDE ? (RTNB)
-    sha256sum: f65c7501992f8905b0fc1aad70833837b9cc89e501c0613b41070a0c5caec119
-    size: 785738420
+    sha256sum: 8edaad1ae751c3270a5f95b08dd73598f8a2ef4aab9ead4fa993dffcfbea7cfc
+    size: 785739641
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/feuilleton-ninde-rtnb-rn.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   fiches-creativite-libre-de-droit-fr:
     description: Pour animer
     language: fr
@@ -1851,6 +2051,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geographie-gl-fr.zip
     version: '2020-01-08'
+  geography-discovery-en:
+    description: "Documentary and short videos to discover new information about history\
+      \ and geography of different countries and cultures. \r\nAll the videos are\
+      \ in english"
+    language: en
+    name: Geography discovery
+    sha256sum: 498123a5f49acf39b7ae54579962c89554aa1a47b1e548c448136cfb5199b714
+    size: 7939658644
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/geography-discovery-en.zip
+    version: '2020-02-17'
   geopolitique-afrique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -1914,6 +2125,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/handcraft-origami-en.zip
     version: '2019-09-17'
+  handicraft-mm:
+    description: Several handicraft tutorial, in burmese and in video without language
+    language: mm
+    name: Handicraft
+    sha256sum: 45188c797db2cc2bda7eb63ea76b35625b8b59393b21d16748ab252a868b4599
+    size: 1706373988
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/handicraft-mm.zip
+    version: '2020-02-17'
   harcelement-ado-fr:
     description: "Des contenus autour du harc\xE8lement, pour l'identifier, ne pas\
       \ sentir isol\xE9.e, et savoir r\xE9agir et vers qui se tourner"
@@ -1980,6 +2200,36 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-promotion-burmese-mm.zip
     version: '2019-11-14'
+  health-promotion-for-mother-and-baby-mm:
+    description: Health promotion video for mother and baby, in Burmese, Rohingya
+      and English
+    language: mm
+    name: Health promotion for mother and baby
+    sha256sum: 984f276285974c676dbbd5fe0fa13e504c73abaebf30473bb638907ff0c7c6df
+    size: 1825067178
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/health-promotion-for-mother-and-baby-mm.zip
+    version: '2020-02-17'
+  health-promotion-in-burmese-mm:
+    description: Learn more about health and how to take care of yourself and of your
+      family, in Burmese language
+    language: mm
+    name: Health Promotion in Burmese
+    sha256sum: 7fd3a42918fea5f614f2d43d1a12f4494204f76561f68e3d5bb4cb97730daf21
+    size: 1657857672
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/health-promotion-in-burmese-mm.zip
+    version: '2020-02-17'
+  health-promotion-in-rohingya-language-rhg:
+    description: Health promotion video, mostly in Rohingya Language, some in English
+      and some in Hindi
+    language: rhg
+    name: Health promotion in Rohingya Language
+    sha256sum: 7cebf10fc3f2df39e2b9b352e0d96de398cb718d757b7ca150e57889814c5a58
+    size: 1582528146
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/health-promotion-in-rohingya-language-rhg.zip
+    version: '2020-02-17'
   health-promotion-multilanguage-en:
     description: How to take care of me and my family ?
     language: en
@@ -2008,6 +2258,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
     version: '2019-09-19'
+  histoire-de-l-art-fr:
+    description: "Des contenus pour d\xE9couvrir ou red\xE9couvrir des grands noms\
+      \ de l'histoire de l'art."
+    language: fr
+    name: Histoire de l'art
+    sha256sum: d0a146ce3980df6aeb56ac2cec2a8bd3f1f0fab7992acbfe9630ac2f2c5e7c1b
+    size: 2167533428
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-l-art-fr.zip
+    version: '2020-01-28'
+  histoire-de-l-ile-de-saint-martin-fr:
+    description: "Documents relatifs \xE0 l'histoire de l'\xEEle de Saint Martin"
+    language: fr
+    name: "Histoire de l'\xEEle de Saint Martin"
+    sha256sum: a9cb2722f79008a212c1c2a74ccbaef2aa5f905fb03bc51847fcf1a7a2e2a652
+    size: 13831336
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-l-ile-de-saint-martin-fr.zip
+    version: '2020-01-28'
   histoire-de-la-republique-democratique-du-congo-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent"
@@ -2261,6 +2530,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/instrumental-music-en.zip
     version: '2019-10-15'
+  internet-les-autres-et-moi-les-bons-usages-fr:
+    description: "Le num\xE9rique est aujourd'hui omnipr\xE9sent dans notre quotidien.\
+      \ Ma\xEEtriser les usages d'Internet est devenue une comp\xE9tence essentielle\
+      \ du citoyen du 21\xE8me si\xE8cle. Ce package de contenus propose des \xE9\
+      l\xE9ments clefs pour \xEAtre \xE0 la fois un consommateur \xE9clair\xE9 des\
+      \ technologies et un acteur de la citoyennet\xE9 num\xE9rique."
+    language: fr
+    name: 'Internet, les autres et moi : les bons usages'
+    sha256sum: 03e8db5d94c7bf7d1b4b9c89ef431ca7fc5cfb3d84a9f64adef4b9cdbdc92c81
+    size: 52732710
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/internet-les-autres-et-moi-les-bons-usages-fr.zip
+    version: '2020-02-11'
   introduction-aux-droits-de-l-homme-fr:
     description: "Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\r\n\
       Un MOOC de l'Universit\xE9 de Gen\xE8ve"
@@ -2559,11 +2841,11 @@ all:
       \ ni bande bamaze gushika kwihangiro ?"
     language: fr
     name: L'entreprenariat  au Burundi  / Gutunganya imigambi Muburundi
-    sha256sum: 3557663a29fa484f3db64b42fa7cf52d1c228ef87afb9047230bf835cacc65a6
-    size: 201645695
+    sha256sum: a9d101a3634ce9e015a8d0af5f6430c3c0967ea45b5333ac943ee66139df53de
+    size: 201649950
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-entreprenariat-au-burundi-gutunganya-imigambi-muburundi-fr.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   l-exploitation-de-l-homme-et-de-la-femme-gl-rn:
     description: "L'exploitation de l'homme et de la femme par les autres, une r\xE9\
       alit\xE9 \xE0 combattre. / Kurwanya gufata abantu bunyamaswa."
@@ -2659,22 +2941,22 @@ all:
       \ nay'ikibondo mugihe wibungeze n'inyuma yaho."
     language: rn
     name: "La sant\xE9 maternelle / Amagara yabavyeyi"
-    sha256sum: 3fbb6963c402e2e4224e33166948a607fe5b5464a678b8e10f34277264188aef
-    size: 2493853829
+    sha256sum: 3a165965ae1ef8d4eb9010a35b7c6a6babd54f1450002a285e482f3b1cdb98d3
+    size: 2493856807
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-maternelle-amagara-yabavyeyi-gl-rn.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   la-sante-sexuelle-et-reproductive-des-adolescents-et-des-jeunes-gl-rn:
     description: "Contenus adapt\xE9s pour parler \xE9ducation sexuelle et reproductive\
       \ chez les adolescents et les jeunes. / Inyigisho zibereye urwaruka ku bijanye\
       \ n'irondoka rijanye n'amagara meza."
     language: rn
     name: Irondoka rijanye namagara meza murwaruka n' imiyabaga (SSRAJ)
-    sha256sum: a56f4484dc7887f2ed55008c72c143e26f920c5498586292f9e7c8e75613ba1a
-    size: 5168602324
+    sha256sum: 4e4ea1e82f469450bce60ce97635a1458fcb8b240f9ff9dd9529f43e6dec97d5
+    size: 5168607955
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-sexuelle-et-reproductive-des-adolescents-et-des-jeunes-gl-rn.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   langue-des-signes-fr:
     description: Se familiariser avec la langue des signes
     language: fr
@@ -2714,11 +2996,11 @@ all:
       \ kuyidomako urutoke no kuyikingira."
     language: fr
     name: "Le harc\xE8lement /  Ihohoterwa"
-    sha256sum: 765ce560bfe63770be9c03896021d542517daf072ac2d4f722dada423bd6c19d
-    size: 933265964
+    sha256sum: ebf0c4ea0d6133ed0ff591392e3eefb9456c8893db547fc8cdeff3884474c546
+    size: 933272163
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/le-harcelement-ihohoterwa-gl-fr.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   le-monde-commence-par-moi-ihinduka-ry-inyifato-y-abantu-rihera-kuri-jewe-rn:
     description: "15 le\xE7ons qui enseignent la connaissance de soi, de ses sentiments,\
       \ du corps qui change, de l'amour et de la sexualit\xE9, du VIH Sida.../ Ivyigwa\
@@ -2726,11 +3008,11 @@ all:
       \ gufata ingingo zibereye muvyerekeye ubuzima ndorabitsina."
     language: rn
     name: Le monde commence par moi / Ihinduka ry'inyifato y'abantu rihera kuri jewe
-    sha256sum: c31eb6e8a2066a8d48ea8371c3b22c9260c7b1f2910c3f413188d0f8f15f89b1
-    size: 197162568
+    sha256sum: 5b926b552213454448e4ae9ef873cb45a3c6abfee86e2d81ef0f8534a96d40b7
+    size: 197163486
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/le-monde-commence-par-moi-ihinduka-ry-inyifato-y-abantu-rihera-kuri-jewe-rn.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   le-talisman-brise-ln-rfi-ln:
     description: "Du lingala au fran\xE7ais avec \"Le Talisman bris\xE9\""
     language: ln
@@ -2749,6 +3031,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/le-talisman-brise-sw-rfi-sw.zip
     version: '2019-09-19'
+  leadership-empowerment-in-burmese-mm:
+    description: Through videos and examples, learn leadership and empowerment. All
+      the content is in Burmese
+    language: mm
+    name: Leadership & Empowerment in Burmese
+    sha256sum: 933017687eb40ad1508aececee98a2d2c2678b1ad1a6a9b94dc24d8671bf6932
+    size: 1340348395
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/leadership-empowerment-in-burmese-mm.zip
+    version: '2020-02-17'
+  learn-burmese-language-mm:
+    description: "Videos and tutorial to learn Burmese language. \r\nLearn the Burmese\
+      \ alphabet and all the letter, learn vocabulary through nice cartoon and song"
+    language: mm
+    name: Learn Burmese Language
+    sha256sum: 54e2bff29c8292b17fde3d625a81b4de384434ead63396a6b432937443625e72
+    size: 869262562
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-burmese-language-mm.zip
+    version: '2020-02-17'
   learn-english-adults-en:
     description: You are an adult. And you wish to practise your spoken English? This
       package is for you!
@@ -2760,14 +3062,15 @@ all:
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
     version: '2019-09-16'
   learn-english-children-bn:
-    description: Improve your english through different supports
+    description: With songs and cartoons, learn the english alphabet, the name of
+      the colour, the animal and the fruits!
     language: bn
-    name: Learn english (children)
-    sha256sum: eaaa169142cac517aae4c5f42ac1567d1957c694855d378206cc14dc52a49e6f
-    size: 2473408267
+    name: Learn english ! (children)
+    sha256sum: 9c213189cbe0ef9381f8372ffcc2881fd1390f3e4dbb59d5c703634469d2e41b
+    size: 2677311416
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-children-bn.zip
-    version: '2019-11-14'
+    version: '2020-02-17'
   learn-english-teenagers-en:
     description: Learn basics in english language to communicate with others! For
       teens.
@@ -2778,6 +3081,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
     version: '2019-09-16'
+  learn-english-with-the-rohingya-club-rhg:
+    description: Improve your english through different supports thanks to videos
+      made by the Rohingya English Club
+    language: rhg
+    name: Learn English with the Rohingya Club
+    sha256sum: 3349eeb7b5f43a630ddcd857a04350aff3b981149cc956286cfb89867f243ee6
+    size: 1373826992
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-english-with-the-rohingya-club-rhg.zip
+    version: '2020-02-17'
   learn-first-aid-techniques-en:
     description: Everyday accidents are responsible for several millions of deaths
       per year all over the world. Here are some simple techniques, that anyone can
@@ -2810,6 +3123,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-photography-en.zip
     version: '2019-09-16'
+  learn-to-be-an-electrician-en:
+    description: "Several videos and documents to learn about electricity.\r\nIn english"
+    language: en
+    name: Learn to be an Electrician
+    sha256sum: 1be64196a72ca66608333199864e9d12505df53ca0a76ea957c959cf95cec62d
+    size: 152877248
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-to-be-an-electrician-en.zip
+    version: '2020-02-17'
   learn-to-know-and-manage-your-feelings-en:
     description: "Identify, observe, express your feelings to feel it better.\r\n\
       To complete this package, you will find a lot of other videos in the application\
@@ -2908,21 +3230,21 @@ all:
     language: fr
     name: "Les filles et les gar\xE7ons, quelles diff\xE9rences ? / Abakobwa n'abahungu\
       \ baratandukanye ?"
-    sha256sum: 473c25809d2e02043aa3d82ed152f78ee64bab22fcff2b097266d6f863c89226
-    size: 458344472
+    sha256sum: 6283a507a7f7942a7d3c54421993c8bbaf906d973931e18f5af9faee5ddbbc4f
+    size: 458350888
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-gl-fr.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   les-violences-base-es-sur-le-genre-pre-vention-et-prise-en-charge-amabi-afatiye-kugitsina-rn:
     description: Amabi afatiye kugitsina. Kubaka kunguvu kandi hataragera.
     language: rn
     name: "Les violences base\u0301es sur le genre (Pre\u0301vention et prise en charge)\
       \ / Amabi afatiye kugitsina"
-    sha256sum: 3ced47e292afa09fb0478989724aba3b3e6ab1210b8b238c1f5ca041a1d1211e
-    size: 1805511352
+    sha256sum: 331721a9e0aeeb831d9c2578f78f901af6f94d9133a07cea79cb6aac49bfea87
+    size: 1805518065
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-violences-base-es-sur-le-genre-pre-vention-et-prise-en-charge-amabi-afatiye-kugitsina-rn.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   les-violences-sexuelles-expliquees-aux-enfants-fr:
     description: Des ressources qui permettent d'aborder la question des violences
       sexuelles (attouchement, inceste,...)aux enfants.
@@ -2940,11 +3262,11 @@ all:
     language: fr
     name: "Les violences sexuelles expliqu\xE9es aux enfants / Gusigurira abana amabi\
       \ afatiye ku gitsina"
-    sha256sum: 5a8a50b1578f0fce16ce1be14d1cb82a1dc3f8fba0e662d7244dcd1c76300bba
-    size: 61563726
+    sha256sum: 251416fc352dfb8fe8c264804fa5c39da2b84bf383731e46d7ffa227d6acc424
+    size: 61566170
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-violences-sexuelles-expliquees-aux-enfants-gl-fr.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   let-s-be-clean-ar:
     description: "Simple videos on personal hygiene.// \u0641\u064A\u062F\u064A\u0648\
       \u0647\u0627\u062A \u0639\u0646 \u0627\u0644\u0646\u0638\u0627\u0641\u0629 \u0627\
@@ -3001,6 +3323,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-en-en.zip
     version: '2019-09-17'
+  life-in-the-rohingya-camp-rhg:
+    description: Content made specificaly for the Rohingya people living in the refugee
+      camps
+    language: rhg
+    name: Life in the Rohingya camp
+    sha256sum: a8451dd7ebe557e4725e35199fc14f197b963487a8a47f9159ae42738790b01d
+    size: 14558391110
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/life-in-the-rohingya-camp-rhg.zip
+    version: '2020-02-17'
   life-saving-burmese-mm:
     description: '-'
     language: mm
@@ -3249,6 +3581,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/musique-libre-de-droit-en.zip
     version: '2019-09-17'
+  musiques-du-monde-rfi-fr:
+    description: "\xC9mission RFI : \"Musiques du monde\""
+    language: fr
+    name: Musique
+    sha256sum: f33729f1a52a1a523c1fb9cbcafa13a85a2fd3ce57e386cab3f0dd6e9ecb8239
+    size: 492565474
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/musiques-du-monde-rfi-fr.zip
+    version: '2020-02-11'
+  natural-disaster-in-the-rohingya-refugee-camp-rhg:
+    description: Information about natural disaster in Rohingya Refugee Camp
+    language: rhg
+    name: Natural disaster in the Rohingya Refugee Camp
+    sha256sum: 6d0d864e9bf505d42ca9de7d3b9a3983091a2f528d4e8406bcda12eb7ce1ed86
+    size: 675377785
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/natural-disaster-in-the-rohingya-refugee-camp-rhg.zip
+    version: '2020-02-17'
   nature-enfants-ados-fr:
     description: "Qui sont les \xEAtres vivants qui nous entourent ? O\xF9 vivent-ils\
       \ ? Que mangent-ils ? Comment vivons-nous ensemble ?"
@@ -3364,11 +3714,11 @@ all:
     description: "Vid\xE9os permettant de d\xE9couvrir diff\xE9rents m\xE9tiers"
     language: fr
     name: Orientation professionnelle
-    sha256sum: fcec4ca97a050fcfe94c9e1b21d7d7368320c52c776bb49bb7f855462ffcab68
-    size: 1123169146
+    sha256sum: d52630474ed351c12298963b053e4e93503f18ce76e81789a03f2feb20f66a4e
+    size: 1130714547
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/orientation-professionnelle-fr.zip
-    version: '2020-01-14'
+    version: '2020-01-28'
   parentalite-fr:
     description: "Le lien parent-enfant est parfois compliqu\xE9 \xE0 entretenir sereinement.\
       \  Ces contenus vous aideront peut-\xEAtre \xE0 trouver certaines r\xE9ponses\
@@ -3576,6 +3926,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/preparing-for-major-disasters-and-natural-catastrophes-en.zip
     version: '2019-09-16'
+  presentation-des-actions-de-bibliotheques-sans-frontieres-france-fr:
+    description: "Pour en savoir davantage sur Biblioth\xE8ques Sans Fronti\xE8res"
+    language: fr
+    name: "Pr\xE9sentation des actions de Biblioth\xE8ques Sans Fronti\xE8res"
+    sha256sum: ff0092552b5bc3db9264bdda7b6c5de06100b10baa83bb34ffa547889ba191db
+    size: 2699175119
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/presentation-des-actions-de-bibliotheques-sans-frontieres-france-fr.zip
+    version: '2020-02-11'
   prevenir-les-grossesses-non-desirees-et-les-grossesses-precoces-gl-rn:
     description: "Pr\xE9venir les grossesses non d\xE9sir\xE9es et les grossesses\
       \ pr\xE9coces / Imbanyi zitifujwe , nugusama imbanyi hataragera."
@@ -3591,11 +3950,11 @@ all:
       \ malariya."
     language: rn
     name: "Pr\xE9venons le paludisme / Turwanye Malariya"
-    sha256sum: b135ff3c897451cb3cc71800f2f63a8de8f41891ce32ac62b40d141ac1255a50
-    size: 1140231311
+    sha256sum: d6c7b016c2781f6742ed22a9bcff0dbcdae583a8700876ad687ffe7aaa8a5f83
+    size: 1140232521
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevenons-le-paludisme-turwanye-malariya-rn.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
@@ -3622,11 +3981,11 @@ all:
       \ ndorabitsina birakingira impanuka umuntu."
     language: fr
     name: "Pr\xE9vention et sexualit\xE9 / Kwinjira hamwe n'ubuzima ndorabitsina"
-    sha256sum: 8584932567542d8bd9d0900dd056f84acdc0f6dd3704015f403451621732a82f
-    size: 344838834
+    sha256sum: ee132e1ed4c1fd4ec6701d25a726e88a2a4341b839546bd5d83d9c4d89aa6758
+    size: 344847381
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevention-et-sexualite-gl-fr.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   priorite-sante-rfi-fr:
     description: "\xC9mission RFI : \"Priorit\xE9 Sant\xE9\""
     language: fr
@@ -3665,6 +4024,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protection-burmese-mm.zip
     version: '2019-11-14'
+  protection-in-the-rohingya-refugee-camp-mm:
+    description: Awarness videos and documents about protection in the Rohingya Refugee
+      Camp, in Burmese, in Rohingya and in English
+    language: mm
+    name: Protection in the Rohingya Refugee Camp
+    sha256sum: 2a5577e19d09fd93a97fa7543bb14e6a113f10cf1f5ab9553ab26fced60a58c1
+    size: 968526985
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/protection-in-the-rohingya-refugee-camp-mm.zip
+    version: '2020-02-17'
   protection-multilanguage-en:
     description: Everyone has the right to be protected
     language: en
@@ -3700,11 +4069,11 @@ all:
       dedicated to children.
     language: en
     name: Psychological support (English & Rohingya)
-    sha256sum: deb8f645d5366794c9b9d540f2bdc6de7905e41d799ca77eb6b6788b4422719c
-    size: 1823706543
+    sha256sum: e4abed6e8925144b8a05cd92e036972007b55dd715a1847532891fe767d99e7e
+    size: 1893523024
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/psychological-support-english-rohingya-en.zip
-    version: '2019-11-14'
+    version: '2020-02-17'
   puberte-fr:
     description: "Contenus relatif \xE0 la pubert\xE9, sur les transformations du\
       \ corps, les premiers rapports sexuels, la contraception..."
@@ -3763,6 +4132,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/rechauffement-climatique-fr.zip
     version: '2019-12-16'
+  refugees-and-migrants-en-en:
+    description: "Important information on refugees rights and law protection. \r\n\
+      Material and activities for reflection and discussion."
+    language: en
+    name: Refugees and migrants
+    sha256sum: a18660d0c126612516b3cfffc7528ab0ad4b1627dc349f7b9d064947fc840562
+    size: 39027030
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/refugees-and-migrants-en-en.zip
+    version: '2020-02-11'
   renseignez-vous-sur-les-demarches-administratives-fr:
     description: "Retrouvez ici quelques guides pour vous aider \xE0 vous rep\xE9\
       rer dans le labyrinthe des d\xE9marches administratives. Pour d\xE9fendre ses\
@@ -3802,6 +4181,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/risques-numeriques-fr.zip
     version: '2020-01-22'
+  rohingya-songs-and-comedy-rhg:
+    description: Growing our culture
+    language: rhg
+    name: Rohingya songs and comedy
+    sha256sum: ce469f14554bef0b91ecdba3aa0348c6906ca29e03655957da92a591693c80bd
+    size: 143155542
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/rohingya-songs-and-comedy-rhg.zip
+    version: '2020-02-17'
   s-informer-sur-internet-fr:
     description: "S'informer sur internet  propose une s\xE9rie de vid\xE9os sur l'\xE9\
       ducation aux m\xE9dias et \xE0 la d\xE9finition du citoyennet\xE9 num\xE9rique."
@@ -3841,6 +4229,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/science-burmese-mm.zip
     version: '2019-11-14'
+  science-documentary-in-burmese-mm:
+    description: Videos and pdf books about science, in Burmese (sometime with english
+      translation)
+    language: mm
+    name: Science documentary in Burmese
+    sha256sum: 9e8892c4abad2cc66c0760eafc61dd565bf10629d8e1bdaf268b1e525000bc68
+    size: 744459805
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/science-documentary-in-burmese-mm.zip
+    version: '2020-02-17'
+  science-documentary-in-english-en:
+    description: Come to explore science topics, make science experiences and discover
+      the sky
+    language: en
+    name: Science documentary in English
+    sha256sum: 6644993ee9d0408afa44cf1b9730bb6674f72893e0217d3d8928e9bd101572a8
+    size: 2809015677
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/science-documentary-in-english-en.zip
+    version: '2020-02-17'
   science-multilanguage-en:
     description: Come to explore science topics, make science experiences and discover
       the sky
@@ -3868,11 +4276,11 @@ all:
       \ n' inrwara zifatira mubihimba vyirondoka."
     language: rn
     name: Kwirinda umugera wa SIDA n'inrwara zifatira mubihimba vyirondoka
-    sha256sum: 2c9ce68698a09dd73cf669326c007744611936f6df7c137e3ca039aeb6c04027
-    size: 2669173002
+    sha256sum: 7bf4f1b1285f1fc1128d2c1ec84c10081b011caef5490e04bcb3a6666cb5c8a2
+    size: 2669179190
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/se-prote-ger-du-vih-sida-et-des-ist-kwirinda-vih-sida-n-inrwara-zifatira-mubihimba-vyirondoka-rn.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   securite-et-sante-apprendre-a-donner-les-premiers-secours-gl-fr:
     description: Apprenez comment apporter les premiers secours en cas d'accidents.
     language: fr
@@ -3909,6 +4317,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sensibilisation-a-la-gestion-des-epidemies-fr.zip
     version: '2019-10-25'
+  sewing-embrodery-en:
+    description: "Learn to sew by hand and machine\r\nLearn many embrodery pattern"
+    language: en
+    name: Sewing & Embrodery
+    sha256sum: fc8e019bce4fe11f510e3553b63b9457e29dfbdf39ae333c783e2bf71cb8f866
+    size: 2051622459
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sewing-embrodery-en.zip
+    version: '2020-02-17'
   sgbv-en:
     description: Knowing and avoid SGBV
     language: en
@@ -4099,6 +4516,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/the-road-zaatari-magazine-ar.zip
     version: '2019-11-21'
+  theater-mime-lessons-en:
+    description: Several videos about how to act like a mime and how to be an actore,
+      with tips ans concret examples
+    language: en
+    name: Theater & Mime lessons
+    sha256sum: 4e51073a96fd82b184920f5f5bfa3c7914725e29f9c57f74654b40cb0bdeac32
+    size: 1264763881
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/theater-mime-lessons-en.zip
+    version: '2020-02-17'
   tutorials-for-using-programs-en:
     description: It explains basic electronic components and software like inkscape
       - gimp - blender - scribus - raspberry pi - audacity - DaVinci - krita
@@ -4125,11 +4552,11 @@ all:
     description: "Histoires et r\xE9cits du quotidien au Burundi."
     language: rn
     name: "Une histoire, un r\xE9cit (Collectif Yaga) / Inkuru duhabwa na YAGA"
-    sha256sum: 9533cf535b8a5a90c9f77c8af781dc8cd3e80fb64fa9b0bb3b6d1c71a9156e3d
-    size: 3770883
+    sha256sum: 99c50cfc88e51e990ef64cb330a254009eb100e34b067c8fec9240444791f12b
+    size: 3774284
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/une-histoire-un-recit-collectif-yaga-inkuru-duhabwa-na-yaga-rn.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   utilisez-internet-en-toute-securite-fr:
     description: "Des contenus pour accompagner petits et grands \xE0 utiliser internet\
       \ en toute s\xE9curit\xE9, et \xE0 comprendre comment avoir du recul sur les\
@@ -4184,11 +4611,11 @@ all:
     description: Vivre avec le VIH Sida / Kubana n' umugera wa SIDA.
     language: rn
     name: Vivre avec le VIH Sida / Kubana n' umugera wa SIDA
-    sha256sum: 6ea6de340b865433e851c430bdf873e51b5b0ab3fdbe93283a4edf87a646b663
-    size: 612681084
+    sha256sum: c92e0be8faf41182e790ed526b5d00b8e3d3cf3f40d6c49b5dc370afa18896d4
+    size: 612683173
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/vivre-avec-le-vih-sida-kubana-n-umugera-wa-sida-rn.zip
-    version: '2020-01-08'
+    version: '2020-02-14'
   wash-promotion-burmese-mm:
     description: '-'
     language: mm
@@ -4360,6 +4787,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-for-therapy-en.zip
     version: '2019-09-16'
+  yoga-for-women-and-children-burmese-english-en:
+    description: "Videos about yoga exercies for adult (in burmese) and for children\
+      \ (in english, but the exercices can be follow without understanding english).\r\
+      \nVideos about breathing exercice and meditation for children (english)"
+    language: en
+    name: Yoga for women and children (Burmese & English)
+    sha256sum: 1f89e0e9f949d6e2f2bd883271492a18674bd9c0d171ad7b86f1404796671fbd
+    size: 3778308113
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/yoga-for-women-and-children-burmese-english-en.zip
+    version: '2020-02-17'
   young-and-old-multilanguage-en:
     description: Transmission of knowledge
     language: en
