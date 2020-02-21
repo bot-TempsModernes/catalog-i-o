@@ -404,11 +404,11 @@ all:
       et font partie de la richesse d'un pays et d'une culture !
     language: fr
     name: Arts
-    sha256sum: f77162e83f51f07d7b6e3e38a65a1d9ac2fdecef790f6bbdbeaca9c4a01cce40
-    size: 6127323615
+    sha256sum: 8699ff8d74634791df84d09b905484c2400669478aabe81dc995024c9e76bac5
+    size: 6233053163
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
-    version: '2019-12-17'
+    version: '2020-02-21'
   arts-plastiques-fr:
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
@@ -1232,11 +1232,11 @@ all:
       \ le prix Sakharov en 2014 et le prix Nobel de la paix en 2018."
     language: fr
     name: Denis Mukwege
-    sha256sum: 7d3c72cdd583858f90cbbfb0bd6bd9906c71b2d501951354efea9974a15a49e9
-    size: 1217754227
+    sha256sum: 6ae19aaa2a465507172f31abc53abb132281adb8985a6fd1c413b91cade11ea0
+    size: 1364003969
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/denis-mukwege-fr.zip
-    version: '2019-09-18'
+    version: '2020-02-21'
   dessins-animes-pour-enfants-en-swahili-sw:
     description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
     language: sw
@@ -1701,12 +1701,12 @@ all:
       \ nous d'un point de vue scientifique mais \xE9galement l'impact que cela \xE0\
       \ sur nos vies."
     language: fr
-    name: emotions
-    sha256sum: 9c8e0d40ce259c97894bfbe866204f87529093708cec2120ca32101137c37087
-    size: 90022795
+    name: Emotions
+    sha256sum: 51d9ca98680e9d1104d1911b4221943c15d9ee4e8df1738d130f80738954493e
+    size: 158363549
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/emotions-fr.zip
-    version: '2019-12-16'
+    version: '2020-02-21'
   english-for-adults-ar:
     description: "Learn English through these easy to follow videos. \u062A\u0639\u0644\
       \u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\u064A\
@@ -2890,11 +2890,11 @@ all:
       gutunganya imvyaro mu Burundi.
     language: rn
     name: La Planification Familiale / Gutunganya imvyaro
-    sha256sum: 5f795e9bc89e1075b076188d993997cc4d47c747c5fff65ec70ec5a85ecd4dbd
-    size: 1487701095
+    sha256sum: d6d0170f59d57269a37447b9d16025e59026760f300fbaea0b237cc564d7667f
+    size: 1487704698
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-planification-familiale-gl-rn.zip
-    version: '2020-01-08'
+    version: '2020-02-21'
   la-planification-familiale-gutunganya-invyaro-gl-rn:
     description: Tout savoir sur la planification familiale au Burundi.
     language: rn
