@@ -213,11 +213,11 @@ all:
       \ et assembl\xE9."
     language: fr
     name: "Apprendre \xE0 utiliser des patrons"
-    sha256sum: 34443eb06946658687b292defdc52606ba1b44fb8616f8c408e8fe99718031c4
+    sha256sum: 72ac94738eb4ec2eeda22966241843431025de18442d7cfc5703881f07a71c26
     size: 102736411
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
-    version: '2020-05-19'
+    version: '2020-05-20'
   apprendre-la-menuiserie-sikana-fr:
     description: "Dans ce programme vid\xE9o \xE9ducatif, vous d\xE9couvrirez les\
       \ savoirs de base qu'il est n\xE9cessaire d'acqu\xE9rir pour devenir menuisier.\
