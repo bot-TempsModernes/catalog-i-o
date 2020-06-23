@@ -213,11 +213,11 @@ all:
       \ et assembl\xE9."
     language: fr
     name: "Apprendre \xE0 utiliser des patrons"
-    sha256sum: b813bd19091f6d708850ed5cd5a31d41c264ae006e8e245fc153015c7bef2130
+    sha256sum: 3eb8099ccd80c4ed38bfdc420c780319309858778d58403a5346b1bf90976ea7
     size: 102736411
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
-    version: '2020-06-22'
+    version: '2020-06-23'
   apprendre-la-menuiserie-sikana-fr:
     description: "Dans ce programme vid\xE9o \xE9ducatif, vous d\xE9couvrirez les\
       \ savoirs de base qu'il est n\xE9cessaire d'acqu\xE9rir pour devenir menuisier.\
@@ -5215,15 +5215,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2019-11-21'
-  test-pkg-1-ar:
-    description: Test pkg 1
-    language: ar
-    name: Test pkg 1
-    sha256sum: a9138e2fccbfa0443acb7de0b181632acd0e66db5cee4c3bec502efb42a4869f
-    size: 3465
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
-    version: '2020-06-23'
   the-road-zaatari-magazine-ar:
     description: "Collective articles and stories written by Syrian refugees who became\
       \ journalists inside Zaatari camp In Jordan. \u0645\u062C\u0645\u0648\u0639\u0629\
