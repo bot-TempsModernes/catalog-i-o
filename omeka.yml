@@ -4425,6 +4425,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/orientation-professionnelle-fr.zip
     version: '2020-01-28'
+  package-nicolas-fr:
+    description: A sample test
+    language: fr
+    name: nicolas
+    sha256sum: 7fe067c065d121d236064f2554a1bbc9b724581809defe2d490dd1971fbc6685
+    size: 3465
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/package-nicolas-fr.zip
+    version: '2020-07-02'
   parentalite-fr:
     description: "Le lien parent-enfant est parfois compliqu\xE9 \xE0 entretenir sereinement.\
       \  Ces contenus vous aideront peut-\xEAtre \xE0 trouver certaines r\xE9ponses\
