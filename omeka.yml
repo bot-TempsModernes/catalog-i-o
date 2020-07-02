@@ -213,11 +213,11 @@ all:
       \ et assembl\xE9."
     language: fr
     name: "Apprendre \xE0 utiliser des patrons"
-    sha256sum: 8b95dec9447faec982921632f67d4ab0a7d847d7756f6b751fd11a4f0f9b23cf
+    sha256sum: 24b60747d1abb0dbd4e09ad1b553e211b2ac9e67417abd9185d13e475237e32f
     size: 102736411
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
-    version: '2020-07-01'
+    version: '2020-07-02'
   apprendre-la-menuiserie-sikana-fr:
     description: "Dans ce programme vid\xE9o \xE9ducatif, vous d\xE9couvrirez les\
       \ savoirs de base qu'il est n\xE9cessaire d'acqu\xE9rir pour devenir menuisier.\
@@ -4425,15 +4425,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/orientation-professionnelle-fr.zip
     version: '2020-01-28'
-  package-nicolas-fr:
-    description: A sample test
-    language: fr
-    name: nicolas
-    sha256sum: 7fe067c065d121d236064f2554a1bbc9b724581809defe2d490dd1971fbc6685
-    size: 3465
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/package-nicolas-fr.zip
-    version: '2020-07-02'
   parentalite-fr:
     description: "Le lien parent-enfant est parfois compliqu\xE9 \xE0 entretenir sereinement.\
       \  Ces contenus vous aideront peut-\xEAtre \xE0 trouver certaines r\xE9ponses\
