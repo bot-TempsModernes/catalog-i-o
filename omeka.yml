@@ -241,7 +241,7 @@ all:
       \ et assembl\xE9."
     language: fr
     name: "Apprendre \xE0 utiliser des patrons"
-    sha256sum: ff24f8fcf80fe4be57b72137f9f4e0ae0ccae177074241f809855fd229cc4e88
+    sha256sum: 00cc83e58612758b41fce4d45d3caca844e321a5cfe0c1dcb09559cefbd1308f
     size: 102736411
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
