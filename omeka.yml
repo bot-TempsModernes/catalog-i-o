@@ -241,11 +241,11 @@ all:
       \ et assembl\xE9."
     language: fr
     name: "Apprendre \xE0 utiliser des patrons"
-    sha256sum: 5b531b33257126c8839af708819551f493850a469a798df5d7415305b4dc49d2
+    sha256sum: b888232c45083ddd96c1e62b3e1990d1de5f1c50109e9a86d8261ff82ad9e5a7
     size: 102736411
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
-    version: '2020-07-16'
+    version: '2020-07-17'
   apprendre-la-menuiserie-sikana-fr:
     description: "Dans ce programme vid\xE9o \xE9ducatif, vous d\xE9couvrirez les\
       \ savoirs de base qu'il est n\xE9cessaire d'acqu\xE9rir pour devenir menuisier.\
@@ -3690,11 +3690,11 @@ all:
       using Qt and runs on Windows and Unix-like OS (including Linux and macOS).
     language: en
     name: Krita - Graphics Editor
-    sha256sum: e0748466aece43d601b5edc6375df1c9759026bb39d9e8cc1ce57292a6b1141b
+    sha256sum: 91deddc53409e08e6d538e9fce479de859c733a1f2bf266488556c1099cd25be
     size: 78686325
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/krita-graphics-editor-en.zip
-    version: '2020-07-03'
+    version: '2020-07-17'
   kurdish-dramas-tv-shows-ckb:
     description: Watch kurdish shows and relax.
     language: ckb
