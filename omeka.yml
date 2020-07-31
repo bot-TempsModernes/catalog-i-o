@@ -241,11 +241,11 @@ all:
       \ et assembl\xE9."
     language: fr
     name: "Apprendre \xE0 utiliser des patrons"
-    sha256sum: d597cff306f37039f516253291216356ad2bdff257a5b648b9d2c2d75962fef3
+    sha256sum: 1022ba6f33d5c77d809f364aedcb33f3de2fce88f40704645597291a7f9ffd4a
     size: 102736411
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
-    version: '2020-07-30'
+    version: '2020-07-31'
   apprendre-la-menuiserie-sikana-fr:
     description: "Dans ce programme vid\xE9o \xE9ducatif, vous d\xE9couvrirez les\
       \ savoirs de base qu'il est n\xE9cessaire d'acqu\xE9rir pour devenir menuisier.\
@@ -6140,15 +6140,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2019-11-21'
-  test-pkg-1-ar:
-    description: Test pkg 1
-    language: ar
-    name: Test pkg 1
-    sha256sum: 776f97e2327def95b6e5c73878c00f8c9ed8628f497bb5e06b1a5acd091377f8
-    size: 3465
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
-    version: '2020-07-31'
   the-dangers-of-alcohol-and-drug-use-en:
     description: Let's be aware and fight the dangers of alcohol and drug use Learn
       about how drugs affect your body and your brain
