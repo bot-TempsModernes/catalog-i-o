@@ -235,17 +235,28 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-programmer-en-java-fr.zip
     version: '2020-03-09'
-  apprendre-a-utiliser-des-patrons-fr:
+  apprendre-a-utiliser-des-patrons-en-couture-fr:
     description: "Tutoriels qui permettent \xE0 un tailleur d'apprendre \xE0 utiliser\
       \ un patron, ou de r\xE9aliser un patron \xE0 partir d'un v\xEAtement existant\
       \ et assembl\xE9."
     language: fr
+    name: "Apprendre \xE0 utiliser des patrons en couture"
+    sha256sum: e8fe5aa6815b49c25111fba8922284e722662886711f4df3f1a8c68305e080e6
+    size: 175811672
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-en-couture-fr.zip
+    version: '2020-08-03'
+  apprendre-a-utiliser-des-patrons-fr:
+    description: "Ce paquet de contenus r\xE9unit quelques exemples de tutoriels qui\
+      \ permettent \xE0 un tailleur d'apprendre \xE0 utiliser un patron, ou de r\xE9\
+      aliser un patron \xE0 partir d'un v\xEAtement existant et assembl\xE9."
+    language: fr
     name: "Apprendre \xE0 utiliser des patrons"
-    sha256sum: 6c726b517a6d2c905c8573b2f8dc696dc026fe578c80b18337d63ee263921419
-    size: 102736411
+    sha256sum: 8d4d9a1f42ba92b116f16aa7a66c39640e2c3eabe78529e78df97cf5ad112003
+    size: 102735995
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
-    version: '2020-08-02'
+    version: '2019-09-10'
   apprendre-la-menuiserie-sikana-fr:
     description: "Dans ce programme vid\xE9o \xE9ducatif, vous d\xE9couvrirez les\
       \ savoirs de base qu'il est n\xE9cessaire d'acqu\xE9rir pour devenir menuisier.\
