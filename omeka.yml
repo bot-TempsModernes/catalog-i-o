@@ -6515,15 +6515,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2019-11-21'
-  test-pkg-1-ar:
-    description: Test pkg 1
-    language: ar
-    name: Test pkg 1
-    sha256sum: d07ad7dbaa7f2144d2f55bc161ae2d8de5c666d5795ec51ae5b84660d7b4021b
-    size: 3465
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/test-pkg-1-ar.zip
-    version: '2020-08-12'
   the-dangers-of-alcohol-and-drug-use-en:
     description: Let's be aware and fight the dangers of alcohol and drug use Learn
       about how drugs affect your body and your brain
