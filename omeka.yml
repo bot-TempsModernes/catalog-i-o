@@ -1311,15 +1311,15 @@ all:
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
     version: '2019-12-10'
   classic-literature-in-english-en:
-    description: EBooks from the classic literature of england, france and ancient
-      greece. All books are in English.
+    description: EBooks from the classic literature of England, France and ancient
+      Greece. All books are in English.
     language: en
     name: Classic literature in English
-    sha256sum: 2621536c46d90f7e62247c83380ca81143c9dd4ef05d730a598cb547a38fc51a
+    sha256sum: fad056fc9a13a03b14ef48794cda286049bfbc08488edd8c879f48509ba76c65
     size: 84264212
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/classic-literature-in-english-en.zip
-    version: '2020-06-21'
+    version: '2020-09-22'
   classical-music-ar:
     description: "The best selection of classical music/ \u062A\u0645\u062A\u0639\
       \ \u0628\u0623\u062C\u0645\u0644 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0627\
@@ -2605,11 +2605,11 @@ all:
     description: Short classes to play drums quickly.
     language: en
     name: Drums for beginners
-    sha256sum: 8a97170fa2b17d581c077e44ecc6acdce8ff89275c49b90ee9072b9369470035
+    sha256sum: bc5b108f29a3ad1f754f9e7eb40f0e73ba560ec1bd6d7f7e498cfa54d8089b50
     size: 536110279
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/drums-for-beginners-en.zip
-    version: '2020-09-18'
+    version: '2020-09-22'
   early-marriage-ar:
     description: "\u062A\u0638\u0647\u0631 \u0627\u0644\u062D\u0632\u0645\u0629 \u0627\
       \u0644\u0631\u0633\u0648\u0645 \u0627\u0644\u0645\u062A\u062D\u0631\u0643\u0629\
@@ -3548,14 +3548,14 @@ all:
   geography-discovery-en:
     description: "Short documentary and video to discover new and sample information\
       \ about history, geography and culture of different countries all around the\
-      \ world. \r\nAll videos are in english"
+      \ world. \r\nAll videos are in English."
     language: en
     name: Geography discovery
-    sha256sum: 7ccd249565e05c7b61a709a1ee642648363dc4eebb83b3d96fa9764994e22e00
+    sha256sum: 3127b87a771f94f3ec840cda9945703d73fa202ab6c7fa8185889c8748508574
     size: 7939658644
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geography-discovery-en.zip
-    version: '2020-06-21'
+    version: '2020-09-22'
   geopolitique-afrique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -5207,11 +5207,11 @@ all:
       basic first aid techniques.
     language: en
     name: Learn first aid techniques
-    sha256sum: dec8d71513c0ff3fa523d1ef0e104bcd46e9fdc74ac5fcc25a758fec27f0245a
+    sha256sum: 85ff65a6865b596a2649fcdd14efe2df59b6a69730d1e789194d150f64c2b637
     size: 815944334
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-first-aid-techniques-en.zip
-    version: '2020-09-18'
+    version: '2020-09-22'
   learn-guitar-en:
     description: You want to learn about guitar ? Beginner or confirmed, you will
       find what you are looking for here !
@@ -5535,11 +5535,11 @@ all:
     description: Learn more about menstruations and sexuality
     language: en
     name: Let's talk about sexuality
-    sha256sum: aca0e81a81ca898711776e1d66da951e2f926cec43513e85f6268aadc2974a9d
+    sha256sum: aee1fffda6ce1709aefa45624730eee89aa812117e060bf73670253806641839
     size: 267713350
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-teenagers-en.zip
-    version: '2020-09-18'
+    version: '2020-09-22'
   life-in-the-rohingya-camp-rhg:
     description: Content made specificaly for the Rohingya people living in the refugee
       camps
@@ -7172,11 +7172,11 @@ all:
     description: Feel free and comfortable discussing puberty
     language: en
     name: Puberty
-    sha256sum: 9f21091ecee0e8090c936ee9d82fde61be98a598d757bd186b334f880bc339c6
-    size: 1081707
+    sha256sum: 72590a619a8729d542a4985ed78c3ce371b8cb202c67c8414169661ceb4a9960
+    size: 4839110
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/puberty-en.zip
-    version: '2020-07-03'
+    version: '2020-09-22'
   public-speaking-en:
     description: "How to speak in public ? How to control your nerves and/or your\
       \ shyness ? \r\nHow your body talks for you ?"
@@ -7995,11 +7995,11 @@ all:
     description: A package containing the basic information about diabetes
     language: en
     name: What are the basics of diabetes?
-    sha256sum: b42b3079135b22f1b32c159d437ad75e49773962721ceeb2554436c7406ed903
+    sha256sum: 971e9ab5b5607bc0b564f91d432137f1ded1b5a14425f84661538d610a3a21fa
     size: 37484683
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/what-are-the-basics-of-diabetes-en.zip
-    version: '2020-09-18'
+    version: '2020-09-22'
   what-does-addiction-look-like-en:
     description: A package outlining the the signs of addiction and how to deal with
       it
